@@ -1,4 +1,4 @@
-const User = require("../models/userModel");
+
 
 // Create token and saving in cookies
 const sendToken = (user, statusCode, res) => {
